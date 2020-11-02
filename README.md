@@ -1,4 +1,4 @@
-# SHIT-the-man
+# SH*T-the-man
 A 2D multiplayer shooter game developed using GLUT as a course assignment for "Fundamentals of Computer Programming" in my 1st Semester of Bachelor's.
 
 #### Objective of the game:
